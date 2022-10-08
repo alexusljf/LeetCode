@@ -10,35 +10,25 @@
  */
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
-        int i = 1, size = 1;
-        int mid;
-        ListNode cur = head;
-        // get the size of the LL
-        while(cur.next != null){
-            cur = cur.next;
-            size++;
-        }
-        if(size==1){
-            head=null;
-            return head;
-        }
-        else{
-        // get the mid point (2nd middle for even sizes)
-        if(size%2 == 0){
-            mid = (size/2) + 1;
-        }
-        else{
-            mid = (size+1)/2;
-        }
-        cur = head;
-        // while loop to stop at the node before mid
-        while(i<mid-1){
-            cur=cur.next;
-            i++;
-        }
-	        ListNode midNode = cur.next;
-	        cur.next=midNode.next;
-	        return head;
-    }
+       		// Fast and Slow Apporach (2 Pointers)
+		// Fast pointer increments by 2 while Slow increments by 1. Once Fast.next == NULL (aka once Fast reaches the end of the LL),
+		// Slow would have reached the middle of the LL
+		if(head==null) 
+			return head;
+		if(head.next==null) 
+			return head=null;
+		ListNode fast = head;
+		ListNode slow = head;
+		ListNode cur = null;
+
+		// Check for fast != null because if fast == null, fast.next will produce an error
+		while(fast != null && fast.next != null) {
+			cur=slow;
+			slow=slow.next;
+			fast=fast.next.next;
+		}
+		cur.next=slow.next;
+		return head;
+
 }
 }
