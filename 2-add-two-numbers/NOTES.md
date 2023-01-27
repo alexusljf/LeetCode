@@ -16,8 +16,12 @@ This part is repeated for L1 and L2
 			val2 += (int) (tempNode.val * Math.pow(10.0,i ));
 			tempNode = tempNode.next;
 		}
+		
 		 System.out.println(val1);
 		 System.out.println(val2);
+		 
+Tried to sum the 2 values and then build a LL backwards but the overflow issue makes it not work.
+
 		ListNode returnNode = new ListNode(); // create a new LL
 		tempNode = returnNode; // temp pointer
 		int result = val1 + val2, i=0;
@@ -25,6 +29,9 @@ This part is repeated for L1 and L2
 		while(result!=0){
 			int remainder = result % 10;
 			ListNode temp2 = new ListNode(remainder);
+			
+Could have just returned returnNode.next, instead of doing this. New Int had to be created.
+
 			if(i == 0){
 				returnNode = temp2;
 			}
