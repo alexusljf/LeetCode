@@ -14,6 +14,7 @@ public class Solution {
 		ListNode slow = head;
 		ListNode fast = head;
 		while (fast != null) {
+            // if reach end of LL, break
 			if (fast.next == null || fast.next.next == null) {
 				break;
 			}
