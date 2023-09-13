@@ -21,9 +21,7 @@ class Solution {
         if (n == 0) {
             return 1;
         }
-        
-        double temp = helper(num, n / 2);
-        
+         double temp = helper(num, n / 2);
         if (n % 2 == 0) {
             return temp * temp;
         } else {
