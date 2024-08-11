@@ -11,7 +11,7 @@ class MinStack:
         self.stack.pop()
 
     def top(self) -> int:
-        return self.stack[len(self.stack)-1]
+        return self.stack[-1]
 
     def getMin(self) -> int:
         return min(self.stack)
