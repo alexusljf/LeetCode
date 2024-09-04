@@ -2,17 +2,9 @@ class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         anagramMap = {}
         for str in strs:
-            # charList = sorted(list(str))
-            # print(charList)
-            # key = ''.join(charList)
             key = tuple(sorted(str))
-            print(key)
-            if key in anagramMap:
-                anagramMap[key].append(str)
-            else:
-                anagramMap[key] = [str]
-        
-        print(anagramMap)
+            if key not in anagramMap:
+                anagramMap[key] = []
+            anagramMap[key].append(str)
         return anagramMap.values()
-            
             
