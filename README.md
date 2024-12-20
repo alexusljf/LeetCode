@@ -50,16 +50,20 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
