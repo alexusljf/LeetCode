@@ -38,4 +38,12 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/alexusljf/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/alexusljf/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/alexusljf/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
