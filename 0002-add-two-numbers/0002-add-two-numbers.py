@@ -9,7 +9,7 @@ class Solution:
         result = ListNode(0)
         resultCur = result
         carry = 0
-        while l1 or l2 or carry:
+        while l1 or l2:
             sum = (l1.val if l1 else 0) + (l2.val if l2 else 0) + carry
             carry = sum // 10
             digit = sum % 10
@@ -20,4 +20,6 @@ class Solution:
                 l1 = l1.next
             if l2:
                 l2 = l2.next
+        if carry:
+            resultCur.next = ListNode(carry)
         return result.next
