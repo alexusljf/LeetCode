@@ -26,12 +26,14 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/alexusljf/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1894-merge-strings-alternately](https://github.com/alexusljf/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/alexusljf/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alexusljf/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/alexusljf/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1894-merge-strings-alternately](https://github.com/alexusljf/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/alexusljf/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## String Matching
 |  |
