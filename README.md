@@ -41,10 +41,12 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/alexusljf/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/alexusljf/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/alexusljf/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/alexusljf/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
@@ -66,4 +68,8 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0226-invert-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/alexusljf/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
