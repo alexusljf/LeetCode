@@ -11,6 +11,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/alexusljf/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1319-unique-number-of-occurrences](https://github.com/alexusljf/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/alexusljf/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/alexusljf/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2232-adding-spaces-to-a-string](https://github.com/alexusljf/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alexusljf/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -19,6 +20,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alexusljf/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/alexusljf/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/alexusljf/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alexusljf/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
