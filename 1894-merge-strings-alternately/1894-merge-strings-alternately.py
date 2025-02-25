@@ -1,9 +1,13 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
+        minLen = min(len(word1), len(word2))
         result = ''
-        for i in range(len(word1) if len(word1) < len(word2) else len(word2)):
-            result += word1[i] + word2[i]
-        result += word1[len(word2):] if len(word2) < len(word1) else word2[len(word1):]
-
+        for i in range(minLen):
+            result += word1[i]
+            result += word2[i]
+        if minLen < len(word1):
+            result += word1[minLen:]
+        else:
+            result += word2[minLen:]
         return result
-        
+            
