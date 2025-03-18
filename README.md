@@ -15,6 +15,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/alexusljf/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2232-adding-spaces-to-a-string](https://github.com/alexusljf/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/alexusljf/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/alexusljf/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alexusljf/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alexusljf/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/alexusljf/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [2478-longest-nice-subarray](https://github.com/alexusljf/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alexusljf/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -103,6 +105,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/alexusljf/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/alexusljf/LeetCode/tree/master/2478-longest-nice-subarray) |
 ## Counting
 |  |
 | ------- |
