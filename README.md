@@ -17,6 +17,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [2308-divide-array-into-equal-pairs](https://github.com/alexusljf/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/alexusljf/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alexusljf/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/alexusljf/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0643-maximum-average-subarray-i](https://github.com/alexusljf/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2478-longest-nice-subarray](https://github.com/alexusljf/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/alexusljf/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/alexusljf/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,8 +108,17 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/alexusljf/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/alexusljf/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/alexusljf/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/alexusljf/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/alexusljf/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/alexusljf/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
