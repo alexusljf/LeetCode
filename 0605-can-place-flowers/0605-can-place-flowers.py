@@ -4,13 +4,12 @@ class Solution:
         # flowers cannot be adjacent (no two 1s adjacent)
         count = 0
         length = len(flowerbed)
-        i = 0
-        while i <length:
-        # for i in range(len(flowerbed)):
-            if flowerbed[i] == 0 and (i == len(flowerbed)-1 or flowerbed[i+1] == 0) and (i == 0 or flowerbed[i-1] == 0):
-                flowerbed[i] = 1
-                count += 1
-                i+=1 # to skip over next as impossible
-            i += 1 
+        for i in range(length):
+            if flowerbed[i] == 0:
+                next = flowerbed[i+1] if i < length - 1 else flowerbed[i]
+                prev = flowerbed[i-1] if i > 0 else flowerbed[i]
+                if next == 0 and prev == 0:
+                    flowerbed[i] = 1
+                    count += 1
         return count >= n
 
