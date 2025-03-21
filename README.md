@@ -9,6 +9,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/alexusljf/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/alexusljf/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/alexusljf/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1319-unique-number-of-occurrences](https://github.com/alexusljf/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -38,6 +39,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/alexusljf/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/alexusljf/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/alexusljf/LeetCode/tree/master/0392-is-subsequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/alexusljf/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
