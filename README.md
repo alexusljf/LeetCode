@@ -10,6 +10,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alexusljf/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/alexusljf/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/alexusljf/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/alexusljf/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/alexusljf/LeetCode/tree/master/0605-can-place-flowers) |
@@ -29,6 +30,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0001-two-sum](https://github.com/alexusljf/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alexusljf/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/alexusljf/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/alexusljf/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alexusljf/LeetCode/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/alexusljf/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -56,6 +58,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alexusljf/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/alexusljf/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/alexusljf/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/alexusljf/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/alexusljf/LeetCode/tree/master/0392-is-subsequence) |
@@ -142,6 +145,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/alexusljf/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/alexusljf/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alexusljf/LeetCode/tree/master/0242-valid-anagram) |
 | [3430-count-days-without-meetings](https://github.com/alexusljf/LeetCode/tree/master/3430-count-days-without-meetings) |

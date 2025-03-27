@@ -1,10 +1,11 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        anagramMap = {}
-        for str in strs:
-            key = tuple(sorted(str))
-            if key not in anagramMap:
-                anagramMap[key] = []
-            anagramMap[key].append(str)
-        return anagramMap.values()
-            
+        anagrams = {}
+        for string in strs:
+            chars = sorted(list(string))
+            key = ''.join(chars)
+            if key in anagrams:
+                anagrams[key].append(string)
+            else:
+                anagrams[key] = [string]
+        return list(anagrams.values())
