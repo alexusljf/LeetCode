@@ -9,6 +9,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/alexusljf/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/alexusljf/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/alexusljf/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/alexusljf/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -26,6 +27,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alexusljf/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/alexusljf/LeetCode/tree/master/0217-contains-duplicate) |
 | [1319-unique-number-of-occurrences](https://github.com/alexusljf/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/alexusljf/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/alexusljf/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -136,5 +138,6 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/alexusljf/LeetCode/tree/master/0217-contains-duplicate) |
 | [3430-count-days-without-meetings](https://github.com/alexusljf/LeetCode/tree/master/3430-count-days-without-meetings) |
 <!---LeetCode Topics End-->
