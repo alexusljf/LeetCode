@@ -10,6 +10,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alexusljf/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/alexusljf/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/alexusljf/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/alexusljf/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/alexusljf/LeetCode/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/alexusljf/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/alexusljf/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/alexusljf/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/alexusljf/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -150,6 +152,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/alexusljf/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/alexusljf/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/alexusljf/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alexusljf/LeetCode/tree/master/0242-valid-anagram) |
