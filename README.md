@@ -50,6 +50,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/alexusljf/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/alexusljf/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/alexusljf/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/alexusljf/LeetCode/tree/master/0392-is-subsequence) |
@@ -61,6 +62,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alexusljf/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/alexusljf/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/alexusljf/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/alexusljf/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/alexusljf/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/alexusljf/LeetCode/tree/master/0392-is-subsequence) |

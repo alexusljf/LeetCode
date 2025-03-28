@@ -1,18 +1,11 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        s = s.lower()
-        ptr1=0
-        ptr2=len(s)-1
-        while ptr1 <= ptr2:
-            if not s[ptr1].isalnum():
-                ptr1+=1
-                continue
-            if not s[ptr2].isalnum():
-                ptr2-=1
-                continue
-            if s[ptr1] != s[ptr2]:
+        # create copy with only alphanumerics by using isalnum in list comprehension
+        sClean = ''.join([char.lower() for char in s if char.isalnum()])
+        l,r=0,len(sClean)-1
+        while l<r:
+            if sClean[l] != sClean[r]:
                 return False
-            ptr1+=1
-            ptr2-=1
+            l+=1
+            r-=1
         return True
-        
