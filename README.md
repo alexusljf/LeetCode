@@ -10,6 +10,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alexusljf/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/alexusljf/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/alexusljf/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/alexusljf/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/alexusljf/LeetCode/tree/master/0217-contains-duplicate) |
@@ -51,6 +52,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/alexusljf/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/alexusljf/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/alexusljf/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/alexusljf/LeetCode/tree/master/0283-move-zeroes) |
@@ -148,6 +150,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/alexusljf/LeetCode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/alexusljf/LeetCode/tree/master/0605-can-place-flowers) |
 ## Sorting
 |  |
