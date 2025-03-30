@@ -40,6 +40,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0242-valid-anagram](https://github.com/alexusljf/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/alexusljf/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/alexusljf/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0768-partition-labels](https://github.com/alexusljf/LeetCode/tree/master/0768-partition-labels) |
 | [1319-unique-number-of-occurrences](https://github.com/alexusljf/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/alexusljf/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/alexusljf/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -62,6 +63,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0283-move-zeroes](https://github.com/alexusljf/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/alexusljf/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/alexusljf/LeetCode/tree/master/0392-is-subsequence) |
+| [0768-partition-labels](https://github.com/alexusljf/LeetCode/tree/master/0768-partition-labels) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/alexusljf/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/alexusljf/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/alexusljf/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -75,6 +77,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0345-reverse-vowels-of-a-string](https://github.com/alexusljf/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/alexusljf/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/alexusljf/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0768-partition-labels](https://github.com/alexusljf/LeetCode/tree/master/0768-partition-labels) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/alexusljf/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/alexusljf/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/alexusljf/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -158,6 +161,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0011-container-with-most-water](https://github.com/alexusljf/LeetCode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/alexusljf/LeetCode/tree/master/0605-can-place-flowers) |
+| [0768-partition-labels](https://github.com/alexusljf/LeetCode/tree/master/0768-partition-labels) |
 ## Sorting
 |  |
 | ------- |
