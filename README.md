@@ -20,6 +20,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0605-can-place-flowers](https://github.com/alexusljf/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/alexusljf/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/alexusljf/LeetCode/tree/master/0724-find-pivot-index) |
+| [0792-binary-search](https://github.com/alexusljf/LeetCode/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/alexusljf/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/alexusljf/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/alexusljf/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -182,4 +183,8 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/alexusljf/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/alexusljf/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
