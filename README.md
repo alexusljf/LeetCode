@@ -144,10 +144,12 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/alexusljf/LeetCode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/alexusljf/LeetCode/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/alexusljf/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/alexusljf/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alexusljf/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/alexusljf/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
@@ -218,4 +220,8 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/alexusljf/LeetCode/tree/master/0200-number-of-islands) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/alexusljf/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
