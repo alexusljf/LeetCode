@@ -1,10 +1,9 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        pairs = {}
+        res = {}
         for i in range(len(nums)):
-            if target - nums[i] in pairs:
-                return [i, pairs.get(target-nums[i])]
-            else:
-                pairs[nums[i]] = i
-            print(pairs)
-        return []
+            complement = target - nums[i]
+            if complement in res:
+                return [res.get(complement), i]
+            res[nums[i]] = i
+        return 0
