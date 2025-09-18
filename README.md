@@ -15,6 +15,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0049-group-anagrams](https://github.com/alexusljf/LeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alexusljf/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/alexusljf/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/alexusljf/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/alexusljf/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/alexusljf/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/alexusljf/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -119,6 +120,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0100-same-tree](https://github.com/alexusljf/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/alexusljf/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/alexusljf/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -127,6 +129,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0100-same-tree](https://github.com/alexusljf/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/alexusljf/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/alexusljf/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -207,4 +210,12 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/alexusljf/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/alexusljf/LeetCode/tree/master/0792-binary-search) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/alexusljf/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/alexusljf/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
