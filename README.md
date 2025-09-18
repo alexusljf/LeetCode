@@ -109,6 +109,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/alexusljf/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/alexusljf/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -116,6 +117,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/alexusljf/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/alexusljf/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -123,6 +125,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/alexusljf/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/alexusljf/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -130,6 +133,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/alexusljf/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/alexusljf/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
