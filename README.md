@@ -13,6 +13,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | [0011-container-with-most-water](https://github.com/alexusljf/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/alexusljf/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/alexusljf/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/alexusljf/LeetCode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alexusljf/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/alexusljf/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/alexusljf/LeetCode/tree/master/0200-number-of-islands) |
@@ -187,6 +188,7 @@ Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 | ------- |
 | [0015-3sum](https://github.com/alexusljf/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/alexusljf/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/alexusljf/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/alexusljf/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alexusljf/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/alexusljf/LeetCode/tree/master/0347-top-k-frequent-elements) |
